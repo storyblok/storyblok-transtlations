@@ -1,14 +1,15 @@
 {
-  "languages":[ 
-    {"code": "de", "label": "German"},
-    {"code": "en", "label": "English"},
-    {"code": "fr", "label": "French"},
-    {"code": "it", "label": "Italian"},
-    {"code": "ja", "label": "Japanese"},
-    {"code": "pl", "label": "Polish"},
-    {"code": "pt-br", "label": "Portuguese (Brazilian)"},
-    {"code": "ru", "label": "Russian"},
-    {"code": "sv", "label": "Swedish"},
-    {"code": "zh", "label": "Chinese"}
-  ]
+    "languages": [
+        { "code": "de", "label": "German" },
+        { "code": "en", "label": "English" },
+        { "code": "fr", "label": "French" },
+        { "code": "it", "label": "Italian" },
+        { "code": "ja", "label": "Japanese" },
+        { "code": "pl", "label": "Polish" },
+        { "code": "pt-br", "label": "Portuguese (Brazilian)" },
+        { "code": "ru", "label": "Russian" },
+        { "code": "sv", "label": "Swedish" },
+        { "code": "zh", "label": "Chinese" },
+        { "code": "cs", "label": "Czech" }
+    ]
 }
